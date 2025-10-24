@@ -1,4 +1,4 @@
-# About Me:
+# Hi!:
 I'm Mira, an 18 year old developer student. I like low-level things^^ and satellites.
 
 
