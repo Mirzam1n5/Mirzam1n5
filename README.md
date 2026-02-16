@@ -1,5 +1,5 @@
 # Hi!
-I'm Mira, an 18 year old developer student. I like low-level things^^ and satellites.
+I'm Mira, an 19 year old developer student. I like low-level things^^ and satellites.
 
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mirzaml) 
