@@ -9,5 +9,3 @@ I'm Mira, an 19 year old developer student. I like low-level things^^ and satell
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzam1n5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude})
