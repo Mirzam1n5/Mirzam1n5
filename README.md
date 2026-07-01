@@ -1,5 +1,5 @@
 # Hi!
-I'm Mira, embedded systems enthusiast and low-level programmer. I like satellites.
+I'm Mira, software dev and embedded systems enthusiast. I like satellites.
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mirzam1n5) 
 
