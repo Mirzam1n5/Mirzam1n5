@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I'm Mira, software dev and embedded systems enthusiast. I like satellites. I am a very curious person and am trying out a lot of things.
+I'm Mira, software dev and embedded systems enthusiast. I am a very curious person and am trying out a lot of things. I like satellites.
   
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mirzam1n5) 
 
